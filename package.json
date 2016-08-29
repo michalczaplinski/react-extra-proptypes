@@ -1,6 +1,6 @@
 {
   "name": "react-extra-proptypes",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Extra prop types for react components",
   "main": "index.js",
   "scripts": {
